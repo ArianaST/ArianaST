@@ -1,7 +1,7 @@
 
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="20">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="28">
 </h3>
 
 <br>
