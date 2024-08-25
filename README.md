@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
   Hey Welcome, I'm Yiyi!
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60">
-</h3>
+</h1>
 
 <br>
 <div align="center">
@@ -38,9 +38,8 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
       <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,androidstudio,latex,arduino&perline=8"/>
 
-      </p>
-
    </br>
+  </p>
   </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="37"><b> Github Stats </b>
