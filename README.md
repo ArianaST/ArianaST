@@ -1,12 +1,13 @@
 
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="28">
 </h3>
 
 <div align="center">
 <em>"Passion drives me, curiosity guides me" </em>
 </div>
+
 <br>
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
@@ -16,13 +17,13 @@
 ---
 <div align="center">
 
-# 💫 About Me:
+# 🚀 About Me:
 
 I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology.  </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"><b> Skills</b>
 <br>
 <div>
 <p align="center">
@@ -43,12 +44,13 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
  </br>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="37"><b> Github Stats </b>
 <br>
 <table width="100%">
   <tr>
     <td width="50%">
       <p align="center">
+        <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
        <img  src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl" alt="ArianaST" align = "center"/>
         </a>
@@ -64,14 +66,6 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ArianaST">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaST&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
