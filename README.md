@@ -1,16 +1,17 @@
 <h1 align="center">
-  Hey Welcome, I'm Yiyi!
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60">
+  Hey there welcome, I'm Yiyi!
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80">
 </h1>
 
 <br>
-<div align="center">
+
+
+<br align="center">
 <em>"Passion drives me, curiosity guides me" </em>
-</div>
+</br>
  
 ---
 <div align="center">
-
 <h4 align="center">Visitor's count:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
 
@@ -36,7 +37,7 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 - **Softwares and Tools**:
 
-      <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,androidstudio,latex,arduino&perline=8"/>
+      <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,androidstudio,latex,arduino&perline=8" />
 
    </br>
   </p>
