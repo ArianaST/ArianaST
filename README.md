@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there welcome, I'm Yiyi!
+  Hi there, welcome, I'm Yiyi!
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80">
 </h1>
 
@@ -11,7 +11,7 @@
 </div>
  
 ---
-
+<div align="center">
 <h3 align="center">Visitor's count:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
 
@@ -37,7 +37,8 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 - **Softwares and Tools**:
 
-      <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django"   src="https://skillicons.dev/icons?i=androidstudio,latex,arduino&perline" />
+      <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,latex,arduino&perline" />
+    
     
 
    </br>
