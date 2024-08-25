@@ -1,6 +1,5 @@
-
 <h3 align="center">
-  Welcome to my profile!
+  Hey Welcome, I'm Yiyi!
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60">
 </h3>
 
@@ -8,7 +7,6 @@
 <div align="center">
 <em>"Passion drives me, curiosity guides me" </em>
 </div>
-<br/>
  
 ---
 <div align="center">
@@ -18,11 +16,12 @@
 
 # 🚀 About Me:
 
-I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology.  </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
+I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology. </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
 
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"><b> Skills</b>
+
 <br>
 <div>
 <p align="center">
@@ -37,13 +36,15 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 - **Softwares and Tools**:
 
-    <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django, latex,arduino&perline=8"/>
+      <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,androidstudio,latex,arduino&perline=8"/>
 
-    </p>
- </br>
-</div>
+      </p>
+
+   </br>
+  </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="37"><b> Github Stats </b>
+
 <br>
 <table width="100%">
   <tr>
@@ -79,8 +80,6 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
-<p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/ariana-tejeda-santiz-0a92b4323/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
@@ -88,8 +87,6 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 </p>
 
-
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
-
