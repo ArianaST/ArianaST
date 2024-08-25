@@ -1,12 +1,14 @@
 
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="30>
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="0>
 </h3>
 
-
+<div align="center">
+<em>"Passion drives me, curiosity guides me" </em>
+</div>
 > "Passion drives me, curiosity guides me"
-<br /> 
+<br />
 
 <br>
 <h4 align="center">Visitor's count 👀</h4>
