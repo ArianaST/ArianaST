@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a ba bachelor's degree in <b>computer technology.  </b> Currently, I am learning React Native. I’m looking to collaborate on your open source projects with machine learning and backend development.
+I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology.  </b> Currently, I am learning React Native and I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
 
 </div>
 
@@ -23,13 +23,13 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 <p align="center">
 
 - **Languages**:
-    <img width="500px"  src="https://skillicons.dev/icons?i=py,java,cpp&perline=10"  />
+    <img width="300px"  src="https://skillicons.dev/icons?i=py,java,cpp&perline=10"  />
 
 - **Front-End Development**:
-   <img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,vue&perline=10"  />
+   <img width="300px"  src="https://skillicons.dev/icons?i=html,css,js,vue"  />
 
 - **Softwares and Tools**:
-    <img width="500px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django, latex,arduino&perline=10"  />
+    <img width="300px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django, latex,arduino"  />
 
     </p>
     </br>
