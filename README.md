@@ -21,7 +21,7 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <br>
 <div>
@@ -37,7 +37,7 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 - **Softwares and Tools**:
 
-    <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,latex,arduino,androidstudio&perline=8" />
+    <img width="300px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,latex,arduino,androidstudio&perline=7" />
     
     
     
@@ -46,7 +46,6 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
   </p>
   </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="37"><b> Github Stats </b>
 
 <br>
 <table width="100%">
