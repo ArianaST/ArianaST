@@ -4,7 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
- ---
+<div align="center">
+<em>"Passion drives me, curiosity guides me" </em>
+</div>
+<br>
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
+<br/>
+ 
+ 
+---
 <div align="center">
 
 # 💫 About Me:
@@ -41,9 +50,7 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
     <td width="50%">
       <p align="center">
         <a href="https://github.com/ArianaST">
-       <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArianaST=dark&show_icons=true&count_private=true" />
-        <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ArianaST" src="https://github-readme-streak-stats.herokuapp.com/?user=ArianaST=dark&hide_border=false" />
+       <img  src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl" alt="ArianaST" align = "center"/>
         </a>
       </p>
     </td>
@@ -87,4 +94,8 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
       </div>
 
 </p>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
 
