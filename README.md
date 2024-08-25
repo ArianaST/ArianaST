@@ -37,7 +37,8 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 - **Softwares and Tools**:
 
-    <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,latex,arduino&perline" />
+    <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,latex,arduino,androidstudio&perline=8" />
+    
     
     
 
