@@ -13,22 +13,22 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
 
 </div>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div>
 <p align="center">
 
 - **Languages**:
 
-    <img width="200px"  src="https://skillicons.dev/icons?i=java,cpp&perline=10"  />
+    <img width="200px"  src="https://skillicons.dev/icons?i=py,java,cpp&perline=8"  />
 
 - **Front-End Development**:
 
-   <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,vue&perline=10"  />
+   <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,vue&perline=8"  />
 
 - **Softwares and Tools**:
 
-    <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django, latex,arduino&perline=10"/>
+    <img width="200px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django, latex,arduino&perline=8"/>
 
     </p>
  </br>
@@ -41,7 +41,9 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
     <td width="50%">
       <p align="center">
         <a href="https://github.com/ArianaST">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AranaST&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+       <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ArianaST=dark&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ArianaST" src="https://github-readme-streak-stats.herokuapp.com/?user=ArianaST=dark&hide_border=false" />
         </a>
       </p>
     </td>
