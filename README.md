@@ -1,7 +1,7 @@
 
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="54">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60">
 </h3>
 
 <br>
@@ -13,7 +13,7 @@
 ---
 <div align="center">
 
-<h4 align="center">Visitor's count 👀</h4>
+<h4 align="center">Visitor's count:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
 
 # 🚀 About Me:
@@ -87,6 +87,7 @@ I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated w
       </div>
 
 </p>
+
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
