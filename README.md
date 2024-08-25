@@ -1,15 +1,17 @@
 
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="35">
 </h3>
 
 <br>
 <div align="center">
 <em>"Passion drives me, curiosity guides me" </em>
 </div>
-</br>
+<br/>
 
+ <h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
  
 ---
 <div align="center">
