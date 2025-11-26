@@ -11,10 +11,6 @@
 </div>
  
 ---
-<div align="center">
-<h3 align="center">Visitor's count:</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{ArianaST}/count.svg" alt="ArianaST :: Visitor's Count" /></p>
-
 # 🚀 About Me:
 
 I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology. </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
