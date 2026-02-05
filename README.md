@@ -30,13 +30,13 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
 
    <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,vue&perline=8"  />
 
-- **Back-End Development**:
+- **Back-End Development (Basic)**:
 
-    <img width="150px" src="https://skillicons.dev/icons?i=nodejs,php,python&perline=8" />
+  <img width="200px" src="https://skillicons.dev/icons?i=nodejs,php,python,flask&perline=8" />
 
 - **Softwares and Tools**:
 
-    <img width="300px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,latex,arduino,androidstudio&perline=7" />
+    <img width="300px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,latex,arduino,matlab,androidstudio&perline=7" />
 
 	
     
@@ -56,7 +56,7 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
         <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=ArianaST&count_private=true&show_icons=true&theme=nightowl&hide_border=true&bg_color=011627&title_color=82AAFF&text_color=D6DEEB&icon_color=7FDBCA"
+            src="https://github-readme-stats.vercel.app/api?username=ArianaST&show_icons=true&theme=nightowl&hide_border=true"
             alt="ArianaST Stats"
           />
         </a>
@@ -67,7 +67,7 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
         <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
           <img
-            src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true&background=011627&stroke=82AAFF&ring=7FDBCA&fire=FFCB6B&currStreakLabel=82AAFF"
+            src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true"
             alt="Streak Stats"
           />
         </a>
@@ -80,16 +80,17 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
         <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
         <a href="https://github.com/ArianaST">
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&title_color=82AAFF&text_color=D6DEEB"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true"
             alt="Top Languages"
           />
         </a>
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
-
 <br/>
+
 
 
 <h3 align="center">Connect with me 🤝</h3>
