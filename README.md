@@ -45,53 +45,28 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
   </p>
   </div>
 
-  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
-        <a href="https://github.com/ArianaST">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=ArianaST&show_icons=true&theme=nightowl&hide_border=true"
-            alt="ArianaST Stats"
-          />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-        <a href="https://github.com/ArianaST">
-          <img
-            src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true"
-            alt="Streak Stats"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-        <a href="https://github.com/ArianaST">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true"
-            alt="Top Languages"
-          />
-        </a>
-      </p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<b> Github Stats </b>
+<br> <table width="100%"> 
+<tr>  
+	<td width="50%"> <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+		<p align="center"> <a href="https://github.com/ArianaST">
+			<img align="center" src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl" alt="Streak Stats" />
+		</a>
+		</p> 
+	</td>
+</tr> 
+<tr> 
+	<td width="50%">
+		<h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3> 
+		<p align="center"> <a href="https://github.com/ArianaST">
+			<img align="center" src="https://github-contributor-stats.vercel.app/api?username=ArianaST&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" /> 
+		</a> 
+		</p> 
+	</td> 
+</tr> 
+</table> 
 <br/>
-
-
 
 <h3 align="center">Connect with me 🤝</h3>
 
