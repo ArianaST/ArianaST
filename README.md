@@ -44,6 +44,8 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
    </br>
   </p>
   </div>
+
+  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -53,37 +55,32 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
       <p align="center">
         <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <img src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl&cache_seconds=1800"
-               alt="ArianaST" />
+       <img  src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl" alt="ArianaST" align = "center"/>
         </a>
       </p>
     </td>
     <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <img src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"
-               alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true&langs_count=8&cache_seconds=1800"
-               alt="Top Languages" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ArianaST&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
-
 <br/>
+
 
 <h3 align="center">Connect with me 🤝</h3>
 
