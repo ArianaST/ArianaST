@@ -32,7 +32,7 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
 
 - **Back-End Development**:
 
-  <img width="200px" src="https://skillicons.dev/icons?i=nodejs,php&perline=8" />
+  <img width="300px" src="https://skillicons.dev/icons?i=nodejs,php&perline=8" />
 
 - **Softwares and Tools**:
 
@@ -44,7 +44,6 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
    </br>
   </p>
   </div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -55,17 +54,15 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
         <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
           <img src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl&cache_seconds=1800"
-               alt="ArianaST" align="center"/>
+               alt="ArianaST" />
         </a>
       </p>
     </td>
-
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
+        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <img align="center"
-               src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          <img src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"
                alt="Streak Stats" />
         </a>
       </p>
@@ -74,16 +71,15 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
 
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
+        <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <!-- Más estable que github-contributor-stats.vercel.app -->
-          <img align="center"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true&langs_count=8&cache_seconds=1800"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true&langs_count=8&cache_seconds=1800"
                alt="Top Languages" />
         </a>
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -97,21 +93,11 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
   </a>
 </div>
 
-<a href="#gh-dark-mode-only">
- <img
-  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786"
-  width="100%"
-  alt="Footer Dark"
-  #gh-dark-mode-only
-/>
+<br/>
 
-</a>
-<a href="#gh-light-mode-only">
-<img
-  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:E3ECFF,50:C7D2FE,100:A5B4FC"
-  width="100%"
-  alt="Footer Light"
-  #gh-light-mode-only
-/>
-
-</a>
+<!-- Footer banner: dark + light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:E3ECFF,50:C7D2FE,100:A5B4FC" />
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" width="100%" />
+</picture>
