@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80">
 </h1>
 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArianaST.ArianaST)](https://github.com/ArianaST)
+[![GitHub followers](https://img.shields.io/github/followers/ArianaST.svg?style=social)](https://github.com/ArianaST?tab=followers)
+
 <br>
 
 
@@ -13,7 +16,7 @@
 ---
 # 🚀 About Me:
 
-I am a <b>Full Stack developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology. </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
+I am a <b>full stack web developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology. </b> Currently, I am learning React Native and libraries to manage data and machine learning in Python. I’m looking to collaborate on your <b> open source projects with machine learning, data science and backend development </b>.
 
 </div>
 
@@ -23,19 +26,19 @@ I am a <b>Full Stack developer</b> and Machine Learning enthusiast. I graduated 
 <div>
 <p align="center">
 
-- **Languages**:
-
-    <img width="200px"  src="https://skillicons.dev/icons?i=py,java,cpp&perline=8"  />
-
 - **Front-End Development**:
 
    <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,vue&perline=8"  />
 
+- **Back-End Development**:
+
+  <img width="200px" src="https://skillicons.dev/icons?i=nodejs,php&perline=8" />
+
 - **Softwares and Tools**:
 
-    <img width="300px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,django,latex,arduino,androidstudio&perline=7" />
-    
-    
+    <img width="300px"  src="https://skillicons.dev/icons?i=git,vscode,docker,mysql,postman,latex,arduino,androidstudio&perline=7" />
+
+	
     
 
    </br>
@@ -51,41 +54,64 @@ I am a <b>Full Stack developer</b> and Machine Learning enthusiast. I graduated 
       <p align="center">
         <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
-       <img  src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl" alt="ArianaST" align = "center"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl&cache_seconds=1800"
+               alt="ArianaST" align="center"/>
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ArianaST">
-          <img align="center" src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl" alt="Streak Stats" />
+          <img align="center"
+               src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"
+               alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/ArianaST">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ArianaST&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <!-- Más estable que github-contributor-stats.vercel.app -->
+          <img align="center"
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true&langs_count=8&cache_seconds=1800"
+               alt="Top Languages" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 <br/>
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center">Connect with me 🤝</h3>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/ariana-tejeda-santiz-0a92b4323/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-      </div>
-
-</p>
-
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ariana-tejeda-santiz-0a92b4323/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
+</div>
+
+<a href="#gh-dark-mode-only">
+ <img
+  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786"
+  width="100%"
+  alt="Footer Dark"
+  #gh-dark-mode-only
+/>
+
+</a>
+<a href="#gh-light-mode-only">
+<img
+  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:E3ECFF,50:C7D2FE,100:A5B4FC"
+  width="100%"
+  alt="Footer Light"
+  #gh-light-mode-only
+/>
+
+</a>
