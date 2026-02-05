@@ -32,7 +32,7 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
 
 - **Back-End Development**:
 
-  <img width="150px" src="https://skillicons.dev/icons?i=nodejs,php&perline=8" />
+    <img width="150px" src="https://skillicons.dev/icons?i=nodejs,php,python&perline=8" />
 
 - **Softwares and Tools**:
 
@@ -55,30 +55,40 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
       <p align="center">
         <h3 align="center"><strong> Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
-       <img  src="https://github-readme-stats.vercel.app/api?username=ArianaST&hide_border=true&count_private=true&show_icons=true&theme=nightowl" alt="ArianaST" align = "center"/>
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=ArianaST&count_private=true&show_icons=true&theme=nightowl&hide_border=true&bg_color=011627&title_color=82AAFF&text_color=D6DEEB&icon_color=7FDBCA"
+            alt="ArianaST Stats"
+          />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
+        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <img align="center" src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl" alt="Streak Stats" />
+          <img
+            src="https://streak-stats.demolab.com?user=ArianaST&theme=nightowl&hide_border=true&background=011627&stroke=82AAFF&ring=7FDBCA&fire=FFCB6B&currStreakLabel=82AAFF"
+            alt="Streak Stats"
+          />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
+        <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
         <a href="https://github.com/ArianaST">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ArianaST&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaST&layout=compact&theme=nightowl&hide_border=true&bg_color=011627&title_color=82AAFF&text_color=D6DEEB"
+            alt="Top Languages"
+          />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 <br/>
 
 
