@@ -30,7 +30,7 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
 
    <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,vue&perline=8"  />
 
-- **Back-End Development (Basic)**:
+- **Back-End Development**:
 
   <img width="200px" src="https://skillicons.dev/icons?i=nodejs,php,python,flask&perline=8" />
 
