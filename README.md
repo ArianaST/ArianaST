@@ -13,7 +13,7 @@
 ---
 # 🚀 About Me:
 
-I am a <b>Front end developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology. </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
+I am a <b>Full Stack developer</b> and Machine Learning enthusiast. I graduated with a bachelor's degree in <b>computer technology. </b> Currently, I am learning React Native and libraries to manage data in Python. I’m looking to collaborate on your <b> open source projects with machine learning, database administration and backend development </b>.
 
 </div>
 
