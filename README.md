@@ -32,7 +32,7 @@ I am a <b>full stack web developer</b> and Machine Learning enthusiast. I gradua
 
 - **Back-End Development**:
 
-  <img width="300px" src="https://skillicons.dev/icons?i=nodejs,php&perline=8" />
+  <img width="150px" src="https://skillicons.dev/icons?i=nodejs,php&perline=8" />
 
 - **Softwares and Tools**:
 
